@@ -10321,12 +10321,20 @@ button.close {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/user\/Desktop\/bootsrap4_Project\/sass\/_custom\.scss}line{font-family:\0000329}}
 .section-a {
-  padding: 3px 0;
+  padding: 30px 0;
   text-align: center;
   background: #1a8c97;
   color: #ffffff; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/user\/Desktop\/bootsrap4_Project\/sass\/_custom\.scss}line{font-family:\0000334}}
   .section-a .fa {
     font-size: 60px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/user\/Desktop\/bootsrap4_Project\/sass\/_custom\.scss}line{font-family:\0000339}}
+.section-b {
+  background: #e6ebf1;
+  padding: 30px 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/user\/Desktop\/bootsrap4_Project\/sass\/_custom\.scss}line{font-family:\0000340}}
+  .section-b img {
+    width: 100%; }
 
 /*# sourceMappingURL=app.css.map */
